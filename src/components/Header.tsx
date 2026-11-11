@@ -10,8 +10,8 @@ export default function Header() {
     <>
       <header className="sticky top-0 z-50 bg-background border-b border-border">
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
-          <Link to="/" className="text-xl font-heading font-bold text-foreground hover:text-primary transition-colors">
-            finishingtouchflawless.co.uk
+          <Link to="/" className="text-lg md:text-xl font-heading font-bold text-foreground hover:text-primary transition-colors">
+            Traço Fino
           </Link>
           
           <button
