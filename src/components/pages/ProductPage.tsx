@@ -10,7 +10,7 @@ export default function ProductPage() {
 
   const productImages = [
     {
-      url: 'https://static.wixstatic.com/media/da404b_f04ef27e0ec04372baf0851bbfd85395~mv2.png',
+      url: 'https://static.wixstatic.com/media/da404b_2d3289426c52457286f4dc301482bbc3~mv2.png',
       alt: 'Aparador de Sobrancelhas Traço Fino - Caneta aberta com tampa ao lado'
     }
   ];
@@ -122,7 +122,7 @@ export default function ProductPage() {
 
               <div className="mb-8">
                 <p className="font-heading font-semibold text-3xl md:text-4xl text-primary">
-                  R$ 179,90
+                  R$ 99,90
                 </p>
               </div>
 
